@@ -4,8 +4,7 @@
       <td>
 <img style='float:right' width=200 heigth=150 src='https://www.letscodeofficial.com/static/images/homepageImg.svg'/>
    <img style='float:right' width=300 heigth=400 src='https://portcities.net/web/image/7698?access_token=60885545-f98b-490c-938f-5127820f70e8'/>
-          <img style='float:right' width=200 heigth=200 src='https://www.edureka.co/blog/wp-content/uploads/2018/11/Data-Engineer-Responsibilities-Big-Data-Engingeer-Skills-Edureka.jpg'/>
-                  <img style='float:right' width=200 heigth=300 src='https://34co0u35pfyt37c0y0457xcu-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/how-to-become-a-data-engineer.jpg'/>
+  <img style='float:right' width=200 heigth=300 src='https://34co0u35pfyt37c0y0457xcu-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/how-to-become-a-data-engineer.jpg'/>
       </td>
       
  
