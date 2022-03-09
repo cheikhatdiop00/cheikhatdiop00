@@ -1,4 +1,4 @@
-👋 Hi, You're <h2>welcom</h2> 
+👋 Hi, You're <h2>welcome</h2> 
 <table>
    <tr>
       <td>
