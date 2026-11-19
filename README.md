@@ -4,7 +4,6 @@
    <tr>
       <td>
          <img width="466" height="255" alt="image" src="https://github.com/user-attachments/assets/44afad9e-c4c0-4183-8878-ffad74618638" />
-
          <img width="519" height="219" alt="image" src="https://github.com/user-attachments/assets/a232fc38-11fe-4bcf-aaed-dc2eefb4aff7" />
 
       </td>
